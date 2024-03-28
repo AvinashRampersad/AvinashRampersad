@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active directory home lab </b>
-  - [Created a domain and managed it using Active Directory](https://github.com/avinashrampersad/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Active Directory Home Lab </b>
+  - [Created a domain and managed it using Active Directory](https://github.com/avinashrampersad/ActiveDirectoryHomeLab)
 
 
 <h2>Certifications</h2>
