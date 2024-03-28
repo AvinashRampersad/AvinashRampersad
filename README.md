@@ -1,4 +1,4 @@
-<h1>Hi, I'm Avinash! <br/><a href="https://github.com/avinashranmpersad"<a href="https://www.linkedin.com/in/avinashrampersad/">Cybersecurity Professional</a>,</h1>
+<h1>Hi, I'm Avinash! <br/><a href="https://github.com/avinashrampersad"<a href="https://www.linkedin.com/in/avinashrampersad/">Cybersecurity Professional</a>,</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
