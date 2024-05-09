@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
+- <b>Splunk-Powered Active Directory Detection Lab</b>
   - [Created a domain and managed it using Active Directory](https://github.com/avinashrampersad/ActiveDirectoryHomeLab)
 
 
