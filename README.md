@@ -4,13 +4,15 @@
 
 - <b>[Splunk-Powered Active Directory Detection Lab](https://github.com/avinashrampersad/ActiveDirectoryHomeLab)</b>
   - Created a domain and managed it using Active Directory.
-- <b>[Exploring Endpoint Detection and Response (EDR) in SOC Detection: A Hands-On Lab](https://github.com/AvinashRampersad/Exploring-Endpoint-Detection-and-Response-EDR-in-SOC-Detection-A-Hands-On-Lab)</b>
+- <b>[Exploring Endpoint Detection and Response (EDR) in SOC Detection](https://github.com/AvinashRampersad/Exploring-Endpoint-Detection-and-Response-EDR-in-SOC-Detection-A-Hands-On-Lab)</b>
   - Explore SOC capabilities with LimaCharlie EDR and Sliver emulator in a simulated attack scenario.
     
 
 <h2>Certifications</h2>
 
 - <b>Comptia Security + </b>
+
+- <b>TryHackMe SOC Level 1 </b>
 
 - <b>Google data analytics</b>
 
