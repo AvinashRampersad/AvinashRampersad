@@ -12,6 +12,8 @@
 
 - <b>Comptia Security + </b>
 
+- <b>Google IT Support </b>
+
 - <b>TryHackMe SOC Level 1 </b>
 
 - <b>Google data analytics</b>
